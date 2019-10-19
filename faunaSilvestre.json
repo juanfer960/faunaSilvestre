@@ -10,16 +10,16 @@
                    {
                       "name": "Anatidae",
                       "children": [
-                          {"name": "AgglomerativeCluster", "value": 3938},
-                          {"name": "AgglomerativeCluster", "value": 3938},
-                          {"name": "AgglomerativeCluster", "value": 3938}
+                          {"name": "AgglomerativeCluster", "value": 3950},
+                          {"name": "AgglomerativeCluster", "value": 3940},
+                          {"name": "AgglomerativeCluster", "value": 3930}
                        ]
                     },
                     {
                       "name": "Anhimidae",
                       "children": [
-                          {"name": "AgglomerativeCluster", "value": 3938},
-                          {"name": "AgglomerativeCluster", "value": 3938}
+                          {"name": "AgglomerativeCluster", "value": 3920},
+                          {"name": "AgglomerativeCluster", "value": 3910}
                        ]
                     }
                 ]
