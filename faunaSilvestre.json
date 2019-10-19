@@ -11,7 +11,7 @@
           ]
        },
        {
-          "name": "AVES",
+          "name": "AVES2",
           "children": [
           {"name": "AgglomerativeCluster", "value": 3938},
           {"name": "CommunityStructure", "value": 3812},
