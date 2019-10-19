@@ -10,9 +10,17 @@
                    {
                       "name": "Anatidae",
                       "children": [
-                          {"name": "test1", "value": 3950},
-                          {"name": "test2", "value": 3940},
-                          {"name": "test3", "value": 3930}
+                          {"name": "Anas clypeata", "value": 1},
+                          {"name": "Anas cyanoptera", "value": 1},
+                          {"name": "Anas discors", "value": 1},
+                          {"name": "Anas flavirostris", "value": 1},
+                          {"name": "Cairina moschata", "value": 1},
+                          {"name": "Dendrocygna autumnalis", "value": 1},
+                          {"name": "Dendrocygna bicolor", "value": 1},
+                          {"name": "Dendrocygna viduata", "value": 1},
+                          {"name": "Merganetta armata", "value": 1},
+                          {"name": "Nomonyx dominicus", "value": 1},
+                          {"name": "Oxyura jamaicensis", "value": 1}
                        ]
                     },
                     {
