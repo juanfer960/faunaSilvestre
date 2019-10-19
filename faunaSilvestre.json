@@ -43,12 +43,6 @@
                           {"name": "Streptoprocne rutila", "value": 1},
                           {"name": "Streptoprocne zonaris", "value": 1}
                        ]
-                    },
-                    {
-                    "name": "Trochilidae",
-                      "children": [
-                             {"name": "Adelomyia melanogenys", "value": 1}
-                       ]
                     }
                 ]
              }
