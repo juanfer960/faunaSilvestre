@@ -22,7 +22,13 @@
                           {"name": "Nomonyx dominicus", "value": 1},
                           {"name": "Oxyura jamaicensis", "value": 1}
                        ]
-                    }
+                    },
+                    {
+                       "name": "Anhimidae",
+                       "children": [
+                           {"name": "Chauna chavaria", "value": 1}
+                        ]
+                     },
 
                 ]
              }
