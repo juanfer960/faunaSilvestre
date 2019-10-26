@@ -111,6 +111,32 @@
                         ]
                      }
                 ]
+             },
+             {
+                "name": "CAPRIMULGIFORMES",
+                "children": [
+                   {
+                      "name": "Caprimulgidae",
+                      "children": [
+                          {"name": "Caprimulgus carolinensis", "value": 1},
+                          {"name": "Caprimulgus cayennensis", "value": 2},
+                          {"name": "Chordeiles acutipennis", "value": 3},
+                          {"name": "Chordeiles minor", "value": 4},
+                          {"name": "Lurocalis rufiventris", "value": 5},
+                          {"name": "Nyctidromus albicollis", "value": 6},
+                          {"name": "Nyctiphrynus rosenbergi", "value": 7},
+                          {"name": "Systellura longirostris", "value": 8},
+                          {"name": "Uropsalis lyra", "value": 9},
+                          {"name": "Uropsalis segmentata", "value": 10}
+                       ]
+                    },
+                    {
+                       "name": "Anhimidae",
+                       "children": [
+                           {"name": "Chauna chavaria", "value": 12}
+                        ]
+                     }
+                ]
              }
           ]
        }
