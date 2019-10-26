@@ -1,4 +1,4 @@
-{
+               {
    "name": "Fauna Silvestre",
     "children": [
        {
@@ -144,8 +144,61 @@
                          ]
                       }
                 ]
+             },
+             {
+                "name": "ACCIPITRIFORMES",
+                "children": [
+                   {
+                      "name": "Acciptridae",
+                      "children": [
+                          {"name": "Accipiter bicolor", "value": 1},
+                          {"name": "Accipiter collaris", "value": 2},
+                          {"name": "Accipiter striatus", "value": 3},
+                          {"name": "Accipiter superciliosus", "value": 4},
+                          {"name": "Asturina nitida", "value": 5},
+                          {"name": "Busarellus nigricollis", "value": 6},
+                          {"name": "Buteo albonotatus", "value": 7},
+                          {"name": "Buteo brachyurus", "value": 8},
+                          {"name": "Buteo leucorrhous", "value": 9},
+                          {"name": "Buteo magnirostris", "value": 10},
+                          {"name": "Buteo nitidus", "value": 11},
+                          {"name": "Buteo platypterus", "value": 21},
+                          {"name": "Buteo swainsoni", "value": 22},
+                          {"name": "Buteogallus anthracinus", "value": 23},
+                          {"name": "Buteogallus meridionalis", "value": 23},
+                          {"name": "Buteogallus urubitinga", "value": 23},
+                          {"name": "Chondrohierax uncinatus", "value": 23},
+                          {"name": "Circus cyaneus", "value": 23},
+                          {"name": "Elanoides forficatus", "value": 23},
+                          {"name": "Elanus leucurus", "value": 23},
+                          {"name": "Gampsonyx swainsonii", "value": 23},
+                          {"name": "Geranoaetus albicaudatus", "value": 23},
+                          {"name": "Geranoaetus melanoleucus", "value": 23},
+                          {"name": "Geranoaetus polyosoma", "value": 23},
+                          {"name": "Geranospiza caerulescens", "value": 23},
+                          {"name": "Harpagus bidentatus", "value": 23},
+                          {"name": "Harpia harpyja", "value": 23},
+                          {"name": "Harpyhaliaetus solitarius", "value": 23},
+                          {"name": "Colibri thalassinus", "value": 23},
+                          {"name": "Helicolestes hamatus", "value": 23},
+                          {"name": "Ictinia mississippiensis", "value": 23},
+                          {"name": "Ictinia plumbea", "value": 23},
+                          {"name": "Leptodon cayanensis", "value": 23},
+                          {"name": "Leucopternis albicollis", "value": 23},
+                          {"name": "Leucopternis plumbea", "value": 23},
+                          {"name": "Leucopternis princeps", "value": 23},
+                          {"name": "Leucopternis semiplumbea", "value": 23},
+                          {"name": "Parabuteo unicinctus", "value": 23},
+                          {"name": "Rostrhamus sociabilis", "value": 23},
+                          {"name": "Spizaetus isidori", "value": 23},
+                          {"name": "Spizaetus ornatus", "value": 23},
+                          {"name": "Spizaetus tyrannus", "value": 23}
+                       ]
+                    }
+                ]
              }
           ]
        }
    ]
 }
+
