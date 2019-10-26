@@ -258,6 +258,48 @@
                            ]
                         }
                 ]
+             },
+             {
+                "name": "CICONIIFORMES",
+                "children": [
+                   {
+                      "name": "Ciconiidae",
+                      "children": [
+                          {"name": "Jabiru mycteria", "value": 1},
+                          {"name": "Mycteria americana", "value": 2}
+                       ]
+                    }
+                ]
+             },
+             {
+                "name": "COLUMBIFORMES",
+                "children": [
+                   {
+                      "name": "Columbidae",
+                      "children": [
+                          {"name": "Claravis mondetoura", "value": 1},
+                          {"name": "Claravis pretiosa", "value": 2},
+                          {"name": "Columbina minuta", "value": 2},
+                          {"name": "Columbina passerina", "value": 2},
+                          {"name": "Columbina squammata", "value": 2},
+                          {"name": "Columbina talpacoti", "value": 2},
+                          {"name": "Geotrygon frenata", "value": 2},
+                          {"name": "Geotrygon linearis", "value": 2},
+                          {"name": "Geotrygon montana", "value": 2},
+                          {"name": "Geotrygon veraguensis", "value": 2},
+                          {"name": "Geotrygon violacea", "value": 2},
+                          {"name": "Leptotila cassini", "value": 2},
+                          {"name": "Leptotila plumbeiceps", "value": 2},
+                          {"name": "Leptotila verreauxi", "value": 2},
+                          {"name": "Patagioenas cayennensis", "value": 2},
+                          {"name": "Patagioenas fasciata", "value": 2},
+                          {"name": "Patagioenas plumbea", "value": 2},
+                          {"name": "Patagioenas speciosa", "value": 2},
+                          {"name": "Patagioenas subvinacea", "value": 2},
+                          {"name": "Zenaida auriculata", "value": 2}
+                       ]
+                    }
+                ]
              }
           ]
        }
