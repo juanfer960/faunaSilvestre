@@ -373,7 +373,65 @@
                         ]
                      }
                 ]
+             },
+             {
+                "name": "GALBULIFORMES",
+                "children": [
+                   {
+                      "name": "Bucconidae",
+                      "children": [
+                          {"name": "Hypnelus ruficollis", "value": 1},
+                          {"name": "Malacoptila mystacalis", "value": 2},
+                          {"name": "Malacoptila panamensis", "value": 2},
+                          {"name": "Micromonacha lanceolata", "value": 2},
+                          {"name": "Monasa morphoeus", "value": 2},
+                          {"name": "Nonnula frontalis", "value": 2},
+                          {"name": "Notharchus hyperrhynchus", "value": 2},
+                          {"name": "Notharchus macrorhyncos", "value": 2},
+                          {"name": "Notharchus pectoralis", "value": 2},
+                          {"name": "Notharchus tectus", "value": 2},
+                          {"name": "Nystalus radiatus", "value": 2}
+                       ]
+                    },
+                    {
+                       "name": "Galbulidae",
+                       "children": [
+                           {"name": "Brachygalba salmoni", "value": 1},
+                           {"name": "Galbula ruficauda", "value": 1},
+                           {"name": "Jacamerops aureus", "value": 1}
+                        ]
+                     }
+                ]
+             },
+             {
+                "name": "GALLIFORMES",
+                "children": [
+                   {
+                      "name": "Cracidae",
+                      "children": [
+                          {"name": "04_Nombre científico I", "value": 1},
+                          {"name": "Aburria aburri", "value": 2},
+                          {"name": "Chamaepetes goudotii", "value": 2},
+                          {"name": "Crax alberti", "value": 2},
+                          {"name": "Ortalis columbiana", "value": 2},
+                          {"name": "Ortalis garrula", "value": 2},
+                          {"name": "Penelope montagnii", "value": 2},
+                          {"name": "Penelope purpurascens", "value": 2}
+                       ]
+                    },
+                    {
+                       "name": "Odontophoridae",
+                       "children": [
+                           {"name": "Colinus cristatus", "value": 1},
+                           {"name": "Odontophorus erythrops", "value": 1},
+                           {"name": "Odontophorus gujanensis", "value": 1},
+                           {"name": "Odontophorus hyperythrus", "value": 1},
+                           {"name": "Rhynchortyx cinctus", "value": 1}
+                        ]
+                     }
+                ]
              }
+
           ]
        }
    ]
