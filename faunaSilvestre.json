@@ -131,11 +131,18 @@
                        ]
                     },
                     {
-                       "name": "Anhimidae",
+                       "name": "Nyctibiidae",
                        "children": [
-                           {"name": "Chauna chavaria", "value": 12}
+                           {"name": "Nyctibius grandis", "value": 12},
+                           {"name": "Nyctibius griseus", "value": 12}
                         ]
-                     }
+                     },
+                     {
+                        "name": "Steatornithidae",
+                        "children": [
+                            {"name": "Steatornis caripensis", "value": 12}
+                         ]
+                      }
                 ]
              }
           ]
