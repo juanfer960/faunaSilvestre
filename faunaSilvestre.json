@@ -430,8 +430,43 @@
                         ]
                      }
                 ]
+             },
+             {
+                "name": "GRUIFORMES",
+                "children": [
+                   {
+                      "name": "Aramidae",
+                      "children": [
+                          {"name": "Aramus guarauna", "value": 1}
+                       ]
+                    },
+                    {
+                       "name": "Eurypygidae",
+                       "children": [
+                           {"name": "Eurypyga helias", "value": 1}
+                        ]
+                     },
+                     {
+                        "name": "Heliornithidae",
+                        "children": [
+                            {"name": "Heliornis fulica", "value": 1}
+                         ]
+                      },
+                      {
+                         "name": "Rallidae",
+                         "children": [
+                             {"name": "Anurolimnas viridis", "value": 1},
+                             {"name": "Aramides cajanea", "value": 1},
+                             {"name": "Gallinula galeata", "value": 1},
+                             {"name": "Laterallus albigularis", "value": 1},
+                             {"name": "Pardirallus nigricans", "value": 1},
+                             {"name": "Porphyrio martinica", "value": 1},
+                             {"name": "Porzana albicollis", "value": 1},
+                             {"name": "Porzana carolina", "value": 1}
+                          ]
+                       }
+                ]
              }
-
           ]
        }
    ]
