@@ -324,6 +324,55 @@
                         ]
                      }
                 ]
+             },
+             {
+                "name": "CUCULIFORMES",
+                "children": [
+                   {
+                      "name": "Cuculidae",
+                      "children": [
+                          {"name": "Coccyzus americanus", "value": 1},
+                          {"name": "Coccyzus erythropthalmus", "value": 2},
+                          {"name": "Coccyzus lansbergi", "value": 2},
+                          {"name": "Crotophaga ani", "value": 2},
+                          {"name": "Crotophaga major", "value": 2},
+                          {"name": "Crotophaga sulcirostris", "value": 2},
+                          {"name": "Dromococcyx pavoninus", "value": 2},
+                          {"name": "Dromococcyx phasianellus", "value": 2},
+                          {"name": "Neomorphus geoffroyi", "value": 2},
+                          {"name": "Piaya cayana", "value": 2},
+                          {"name": "Piaya minuta", "value": 2},
+                          {"name": "Tapera naevia", "value": 2}
+                       ]
+                    }
+                ]
+             },
+             {
+                "name": "FALCONIFORMES",
+                "children": [
+                   {
+                      "name": "Falconidae",
+                      "children": [
+                          {"name": "Caracara cheriway", "value": 1},
+                          {"name": "Falco columbarius", "value": 2},
+                          {"name": "Falco femoralis", "value": 2},
+                          {"name": "Falco peregrinus", "value": 2},
+                          {"name": "Falco rufigularis", "value": 2},
+                          {"name": "Falco sparverius", "value": 2},
+                          {"name": "Herpetotheres cachinnans", "value": 2},
+                          {"name": "Ibycter americanus", "value": 2},
+                          {"name": "Micrastur ruficollis", "value": 2},
+                          {"name": "Micrastur semitorquatus", "value": 2},
+                          {"name": "Milvago chimachima", "value": 2}
+                       ]
+                    },
+                    {
+                       "name": "Pandionidae",
+                       "children": [
+                           {"name": "Pandion haliaetus", "value": 1}
+                        ]
+                     }
+                ]
              }
           ]
        }
