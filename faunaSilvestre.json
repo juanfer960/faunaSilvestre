@@ -210,6 +210,54 @@
                        ]
                     }
                 ]
+             },
+             {
+                "name": "CHARADRIIFORMES",
+                "children": [
+                   {
+                      "name": "Charadriidae",
+                      "children": [
+                          {"name": "Charadrius collaris", "value": 1},
+                          {"name": "Charadrius vociferus", "value": 2},
+                          {"name": "Vanellus chilensis", "value": 3}
+                       ]
+                    },
+                    {
+                       "name": "Jacanidae",
+                       "children": [
+                           {"name": "Jacana jacana", "value": 3}
+                        ]
+                     },
+                     {
+                        "name": "Laridae",
+                        "children": [
+                            {"name": "Leucophaeus atricilla", "value": 3},
+                            {"name": "Rynchops niger", "value": 3},
+                            {"name": "Sternula superciliaris", "value": 3}
+                         ]
+                      },
+                      {
+                         "name": "Recurvirostridae",
+                         "children": [
+                             {"name": "Himantopus mexicanus", "value": 3}
+                          ]
+                       },
+                       {
+                          "name": "Scolopacidae",
+                          "children": [
+                              {"name": "Actitis macularius", "value": 3},
+                              {"name": "Calidris mauri", "value": 3},
+                              {"name": "Calidris melanotos", "value": 3},
+                              {"name": "Calidris minutilla", "value": 3},
+                              {"name": "Gallinago delicata", "value": 3},
+                              {"name": "Gallinago nobilis", "value": 3},
+                              {"name": "Gallinago undulata", "value": 3},
+                              {"name": "Tringa flavipes", "value": 3},
+                              {"name": "Tringa melanoleuca", "value": 3},
+                              {"name": "Tringa solitaria", "value": 3}
+                           ]
+                        }
+                ]
              }
           ]
        }
