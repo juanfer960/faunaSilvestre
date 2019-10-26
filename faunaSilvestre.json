@@ -300,6 +300,30 @@
                        ]
                     }
                 ]
+             },
+             {
+                "name": "CORACIIFORMES",
+                "children": [
+                   {
+                      "name": "Alcedinidae",
+                      "children": [
+                          {"name": "Chloroceryle amazona", "value": 1},
+                          {"name": "Chloroceryle amazona", "value": 2},
+                          {"name": "Chloroceryle americana", "value": 2},
+                          {"name": "Megaceryle alcyon", "value": 2},
+                          {"name": "Megaceryle torquata", "value": 2}
+                       ]
+                    },
+                    {
+                       "name": "Momotidae",
+                       "children": [
+                           {"name": "Baryphthengus martii", "value": 1},
+                           {"name": "Electron platyrhynchum", "value": 2},
+                           {"name": "Hylomanes momotula", "value": 2},
+                           {"name": "Momotus aequatorialis", "value": 2}
+                        ]
+                     }
+                ]
              }
           ]
        }
