@@ -1,4 +1,4 @@
-               {
+{
    "name": "Fauna Silvestre",
     "children": [
        {
@@ -196,9 +196,22 @@
                        ]
                     }
                 ]
+             },
+             {
+                "name": "CATHARTIFORMES",
+                "children": [
+                   {
+                      "name": "Cathartidae",
+                      "children": [
+                          {"name": "Cathartes aura", "value": 1},
+                          {"name": "Cathartes burrovianus", "value": 2},
+                          {"name": "Coragyps atratus", "value": 3},
+                          {"name": "Sarcoramphus papa", "value": 4}
+                       ]
+                    }
+                ]
              }
           ]
        }
    ]
 }
-
