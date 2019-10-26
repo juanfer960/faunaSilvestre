@@ -32,26 +32,6 @@
                      },
 
                 ]
-             },
-             {
-                "name": "APODIFORMES",
-                "children": [
-                   {
-                      "name": "Apodidae",
-                      "children": [
-                          {"name": "Chaetura brachyura", "value": 14},
-                          {"name": "Chaetura chapmani", "value": 15},
-                          {"name": "Chaetura cinereiventris", "value": 16},
-                          {"name": "Chaetura meridionalis", "value": 17},
-                          {"name": "Chaetura pelagica", "value": 18},
-                          {"name": "Chaetura spinicaudus", "value": 19},
-                          {"name": "Cypseloides cryptus", "value": 20},
-                          {"name": "Panyptila cayennensis", "value": 21},
-                          {"name": "Streptoprocne rutila", "value": 22},
-                          {"name": "Streptoprocne zonaris", "value": 23}
-                       ]
-                    }
-                ]
              }
           ]
        }
