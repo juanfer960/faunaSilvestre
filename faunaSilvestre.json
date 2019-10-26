@@ -49,7 +49,22 @@
                           {"name": "Streptoprocne rutila", "value": 22},
                           {"name": "Streptoprocne zonaris", "value": 23}
                        ]
-                    }
+                    },
+                    {
+                       "name": "Trochilidae",
+                       "children": [
+                           {"name": "Adelomyia melanogenys", "value": 14},
+                           {"name": "Aglaeactis cupripennis", "value": 15},
+                           {"name": "Aglaiocercus coelestis", "value": 16},
+                           {"name": "Aglaiocercus kingii", "value": 17},
+                           {"name": "Amazilia amabilis", "value": 18},
+                           {"name": "Amazilia franciae", "value": 19},
+                           {"name": "Amazilia saucerrottei", "value": 20},
+                           {"name": "Amazilia tzacatl", "value": 21},
+                           {"name": "Androdon aequatorialis", "value": 22},
+                           {"name": "Anthracothorax nigricollis", "value": 23}
+                        ]
+                     }
                 ]
              }
           ]
