@@ -26,8 +26,7 @@
                     {
                        "name": "Anhimidae",
                        "children": [
-                           {"name": "Chauna chavaria", "value": 12},
-                           {"name": "Chauna chavaria bicolor", "value": 13}
+                           {"name": "Chauna chavaria", "value": 12}
                         ]
                      }
                 ]
@@ -62,7 +61,53 @@
                            {"name": "Amazilia saucerrottei", "value": 20},
                            {"name": "Amazilia tzacatl", "value": 21},
                            {"name": "Androdon aequatorialis", "value": 22},
-                           {"name": "Anthracothorax nigricollis", "value": 23}
+                           {"name": "Boissonneaua flavescens", "value": 23},
+                           {"name": "Calliphlox mitchellii", "value": 23},
+                           {"name": "Campylopterus falcatus", "value": 23},
+                           {"name": "Chaetocercus heliodor", "value": 23},
+                           {"name": "Chaetocercus mulsant", "value": 23},
+                           {"name": "Chalybura buffonii", "value": 23},
+                           {"name": "Chalybura urochrysia", "value": 23},
+                           {"name": "Chlorostilbon gibsoni", "value": 23},
+                           {"name": "Chlorostilbon mellisugus", "value": 23},
+                           {"name": "Chrysolampis mosquitus", "value": 23},
+                           {"name": "Coeligena bonapartei", "value": 23},
+                           {"name": "Coeligena coeligena", "value": 23},
+                           {"name": "Coeligena torquata", "value": 23},
+                           {"name": "Colibri coruscans", "value": 23},
+                           {"name": "Colibri delphinae", "value": 23},
+                           {"name": "Colibri thalassinus", "value": 23},
+                           {"name": "Damophila julie", "value": 23},
+                           {"name": "Doryfera ludovicae", "value": 23},
+                           {"name": "Ensifera ensifera", "value": 23},
+                           {"name": "Eriocnemis derbyi", "value": 23},
+                           {"name": "Eriocnemis vestita", "value": 23},
+                           {"name": "Eutoxeres aquila", "value": 23},
+                           {"name": "Florisuga mellivora", "value": 23},
+                           {"name": "Glaucis hirsutus", "value": 23},
+                           {"name": "Haplophaedia aureliae", "value": 23},
+                           {"name": "Heliangelus exortis", "value": 23},
+                           {"name": "Heliodoxa jacula", "value": 23},
+                           {"name": "Heliodoxa leadbeateri", "value": 23},
+                           {"name": "Heliodoxa rubinoides", "value": 23},
+                           {"name": "Heliomaster longirostris", "value": 23},
+                           {"name": "Heliothryx barroti", "value": 23},
+                           {"name": "Klais guimeti", "value": 23},
+                           {"name": "Lafresnaya lafresnayi", "value": 23},
+                           {"name": "Lepidopyga goudoti", "value": 23},
+                           {"name": "Metallura tyrianthina", "value": 23},
+                           {"name": "Metallura williami", "value": 23},
+                           {"name": "Ocreatus underwoodii", "value": 23},
+                           {"name": "Phaethornis anthophilus", "value": 23},
+                           {"name": "Phaethornis guy", "value": 23},
+                           {"name": "Phaethornis longirostris", "value": 23},
+                           {"name": "Phaethornis striigularis", "value": 23},
+                           {"name": "Phaethornis syrmatophorus", "value": 23},
+                           {"name": "Ramphomicron microrhynchum", "value": 23},
+                           {"name": "Schistes geoffroyi", "value": 23},
+                           {"name": "Thalurania fannyi", "value": 23},
+                           {"name": "Threnetes ruckeri", "value": 23},
+                           {"name": "Urochroa bougueri", "value": 23}
                         ]
                      }
                 ]
